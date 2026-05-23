@@ -1,4 +1,4 @@
-# Hi, I'm Ali Sufyan 👋
+# Hi, I'm Ali Sufyyan 👋
 
 BS Data Science student with a Computer Science background, building toward a career in Data Science and Machine Learning — not just for a job, but because this is the work I actually want to do.
 
