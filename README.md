@@ -43,6 +43,7 @@ Currently focused on strengthening my ML fundamentals through hands-on projects,
 
 | Project | Type | Description |
 |---|---|---|
+| [Rock vs Mine Prediction](https://github.com/AliSufyyan/Rock_vs_Mine_Prediction) | Machine Learning | Logistic Regression classifier on sonar signals — binary classification |
 | [Fandango Rating Analysis](https://github.com/AliSufyyan/Fandango_Rating_Analysis) | EDA | Investigating rating inflation on Fandango vs Rotten Tomatoes, Metacritic, IMDB |
 | [Titanic Survival Analysis](https://github.com/AliSufyyan/Titanic_data_set_analysis) | EDA | Survival pattern analysis by gender, class, and age group |
 | [Pakistan Colleges Analysis](https://github.com/AliSufyyan/All_Intermediate_colleges_analysis) | EDA | Public vs private sector quality analysis of intermediate colleges in Pakistan |
@@ -60,11 +61,17 @@ Currently focused on strengthening my ML fundamentals through hands-on projects,
 
 ---
 
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliSufyyan&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliSufyyan&layout=compact&hide_border=true)
+
+---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/ali-sufyyan)]
-[![Email]](alisufyyan009@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-sufyyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](alisufyyan009@gmail.com)
 
 ---
 
